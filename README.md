@@ -5,13 +5,13 @@ macOS Mojave 10.14.4 (18E226)
 
 - **System Installation**
 
-  This is a introduction about macOS system installation process.
+  This part is intended for macOS system installation process.
 
   The `EFI` folder should be in the `Installation` folder.
 
 - **Post Installation**
 
-  This part is intended for post installation. 
+  This part is intended for post installation, which means the real macOS system. 
 
   The `EFI` folder should be in the `Post Installation` folder.
 
